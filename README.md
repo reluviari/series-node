@@ -1,9 +1,24 @@
-# Servidor para a Aplicação Minhas Séries - DevPleno
+# Application Server Séries NodeJS
 
-Criado durante o evento Hands-on ReactJS do DevPleno.
+## Criação: 16 de Setembro de 2019
+## Prática : @reluviari
 
-https://www.devpleno.com/handsonreact/
+## Ferramentas : 
+![Javascript](/images/logo-javascript-es6.png)
+![NodJS](/images/logo-nodejs.jpg)
+![Yarn](/images/logo-yarn.png)
+![VSCode](/images/logo-VSCode.png)
+![Git](/images/logo-git.png)
+![GitHub](/images/logo-github.png)
 
-https://www.devpleno.com/devreactjs/
+## Configuration
 
-https://www.devpleno.com/
+```sh
+ $ yarn install
+```
+
+## Run development project
+
+```sh
+ $ yarn start
+```
