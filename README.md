@@ -5,7 +5,7 @@
 
 ## Ferramentas : 
 ![Javascript](/images/logo-javascript-es6.png)
-![NodJS](/images/logo-nodejs.jpg)
+![NodeJS](/images/logo-nodejs.png)
 ![Yarn](/images/logo-yarn.png)
 ![VSCode](/images/logo-VSCode.png)
 ![Git](/images/logo-git.png)
