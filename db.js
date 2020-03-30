@@ -16,7 +16,7 @@ const initDB = async () => {
       table.integer('genre_id')
       table.string('comments')
       table.string('poster')
-      table.string('back
+      table.string('background')
     })
   }
   const genresExist = await knex.schema.hasTable('genres')
