@@ -15,6 +15,6 @@
     "start": "node index.js"
   },
   "keywords": [],
-  "author": "Tulio Faria",
+  "author": "Danilo Dias",
   "license": "MIT"
 }
